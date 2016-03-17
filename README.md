@@ -12,5 +12,5 @@ First project is called NS1. Followed by NS2 and so on.
 
 ## Project ##
 
-1. [NS1](/NS1)
+1. [NS1](./NS1)
   - This Project is about handling sensitive keys in Android Projects and not hardcoding them into the app.

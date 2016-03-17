@@ -34,3 +34,6 @@ build/
 
 #NDK
 obj/
+
+# Custom ashcoding configuration file
+key.properties
